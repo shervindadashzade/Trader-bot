@@ -1,0 +1,77 @@
+> TradinSignals15min:
+new signals SANDIRT: [{'type': 'buy', 'time': '7:0', 'price': 41197.99995779991}]
+
+> TradinSignals15min:
+new signals XRPIRT: [{'type': 'buy', 'time': '7:15', 'price': 11650.000009477139}]
+
+> TradinSignals15min:
+new signals EOSIRT: [{'type': 'buy', 'time': '7:30', 'price': 41084.99983561039}]
+
+> TradinSignals15min:
+new signals UNIIRT: [{'type': 'sel', 'time': '7:45', 'price': 282600.001008451}]
+
+> TradinSignals15min:
+new signals SANDIRT: [{'type': 'sel', 'time': '7:45', 'price': 41099.999960780144}]
+
+> TradinSignals15min:
+new signals EOSIRT: [{'type': 'sel', 'time': '8:0', 'price': 41083.000286877155}]
+
+> TradinSignals15min:
+new signals UNIIRT: [{'type': 'buy', 'time': '8:0', 'price': 284999.00118780136}]
+
+> TradinSignals15min:
+new signals ADAIRT: [{'type': 'sel', 'time': '8:15', 'price': 17822.000010967255}]
+
+> TradinSignals15min:
+new signals XRPIRT: [{'type': 'sel', 'time': '8:15', 'price': 11642.999973982573}]
+
+> TradinSignals15min:
+new signals DOTIRT: [{'type': 'sel', 'time': '8:30', 'price': 283560.00167131424}]
+
+> TradinSignals15min:
+new signals UNIIRT: [{'type': 'sel', 'time': '8:30', 'price': 282637.99896365404}]
+
+> TradinSignals15min:
+new signals LINKIRT: [{'type': 'sel', 'time': '8:45', 'price': 276535.99915635586}]
+
+> TradinSignals15min:
+new signals XRPIRT: [{'type': 'buy', 'time': '9:0', 'price': 11670.00001230836}]
+
+> TradinSignals15min:
+new signals ADAIRT: [{'type': 'buy', 'time': '9:15', 'price': 17700.00006055832}]
+
+> TradinSignals15min:
+new signals XRPIRT: [{'type': 'sel', 'time': '9:15', 'price': 11512.000008761883}]
+
+> TradinSignals15min:
+new signals ADAIRT: [{'type': 'sel', 'time': '9:45', 'price': 17511.99993300438}]
+
+> TradinSignals15min:
+new signals EOSIRT: [{'type': 'buy', 'time': '9:45', 'price': 40894.999743402004}]
+
+> TradinSignals15min:
+new signals DOTIRT: [{'type': 'buy', 'time': '9:45', 'price': 281549.9980151653}]
+
+> TradinSignals15min:
+new signals UNIIRT: [{'type': 'buy', 'time': '9:45', 'price': 282063.00065791607}]
+
+> TradinSignals15min:
+new signals EOSIRT: [{'type': 'sel', 'time': '10:0', 'price': 40720.00014525652}]
+
+> TradinSignals15min:
+new signals UNIIRT: [{'type': 'sel', 'time': '10:0', 'price': 279399.998598814}]
+
+> TradinSignals15min:
+new signals SANDIRT: [{'type': 'buy', 'time': '10:0', 'price': 41200.00007587671}]
+
+> TradinSignals15min:
+new signals ADAIRT: [{'type': 'buy', 'time': '10:15', 'price': 17514.999891877174}]
+
+> TradinSignals15min:
+new signals LINKIRT: [{'type': 'buy', 'time': '10:15', 'price': 274416.00034058094}]
+
+> TradinSignals15min:
+new signals XRPIRT: [{'type': 'buy', 'time': '10:15', 'price': 11598.999992847443}]
+
+> TradinSignals15min:
+new signals DOTIRT: [{'type': 'sel', 'time': '10:15', 'price': 281106.00170493126}]

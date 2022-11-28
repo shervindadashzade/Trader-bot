@@ -1,0 +1,53 @@
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'sel', 'time': '9:50', 'price': 11504.999973267317}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'buy', 'time': '9:50', 'price': 282498.99965524673}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'sel', 'time': '9:50', 'price': 279428.9999629855}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'buy', 'time': '9:50', 'price': 40917.99993568659}]
+
+> TradeSignals5min:
+new signals LINKIRT: [{'type': 'buy', 'time': '9:55', 'price': 273908.0011065006}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'buy', 'time': '9:55', 'price': 11596.999973744154}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'sel', 'time': '10:0', 'price': 11555.999989897013}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'sel', 'time': '10:0', 'price': 40875.0000770092}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'buy', 'time': '10:5', 'price': 40839.99992084503}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'buy', 'time': '10:10', 'price': 11598.000014662743}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'buy', 'time': '10:10', 'price': 279832.0016747713}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'sel', 'time': '10:15', 'price': 40712.9999345839}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'sel', 'time': '10:15', 'price': 11560.00002810359}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'sel', 'time': '10:15', 'price': 278010.0002784729}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'buy', 'time': '10:20', 'price': 41000.000218331814}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'buy', 'time': '10:20', 'price': 41599.99989306927}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'sel', 'time': '10:25', 'price': 40650.99990135431}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'buy', 'time': '10:25', 'price': 279100.99947983027}]

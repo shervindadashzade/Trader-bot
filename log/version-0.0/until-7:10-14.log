@@ -1,0 +1,125 @@
+> TradeSignals5min:
+new signals ADAIRT: [{'type': 'buy', 'time': '4:5', 'price': 17034.999980568886}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'sel', 'time': '4:25', 'price': 282508.9986026287}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'buy', 'time': '4:30', 'price': 283899.99863505363}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'buy', 'time': '4:35', 'price': 40889.99999779463}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'buy', 'time': '4:45', 'price': 11564.000003576279}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'sel', 'time': '4:50', 'price': 11511.000030577183}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'sel', 'time': '4:50', 'price': 282994.0013587475}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'sel', 'time': '4:50', 'price': 40889.99999779463}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'buy', 'time': '4:55', 'price': 41220.0001052618}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'buy', 'time': '5:0', 'price': 282999.99979138374}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'buy', 'time': '5:5', 'price': 40899.99994498491}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'buy', 'time': '5:10', 'price': 11598.999992847443}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'buy', 'time': '5:10', 'price': 275897.0016724467}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'sel', 'time': '5:15', 'price': 41205.000207901}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'sel', 'time': '5:15', 'price': 11535.000008881092}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'buy', 'time': '5:20', 'price': 41337.99973541498}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'sel', 'time': '5:25', 'price': 41066.00024408102}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'sel', 'time': '5:25', 'price': 282332.99934864044}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'sel', 'time': '5:25', 'price': 41000.00006008148}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'sel', 'time': '5:30', 'price': 275998.99823105335}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'buy', 'time': '5:40', 'price': 11629.000028461218}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'buy', 'time': '5:40', 'price': 282886.0014975071}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'buy', 'time': '5:45', 'price': 41403.00028514862}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'sel', 'time': '5:45', 'price': 11541.99998164177}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'sel', 'time': '5:55', 'price': 282313.99807333946}]
+
+> TradeSignals5min:
+new signals ADAIRT: [{'type': 'sel', 'time': '6:0', 'price': 17539.00010383129}]
+
+> TradeSignals5min:
+new signals LINKIRT: [{'type': 'sel', 'time': '6:0', 'price': 275499.9992930889}]
+
+> TradeSignals5min:
+new signals EOSIRT: [{'type': 'sel', 'time': '6:0', 'price': 41000.000218331814}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'buy', 'time': '6:0', 'price': 11616.999976575375}]
+
+> TradeSignals5min:
+new signals ADAIRT: [{'type': 'buy', 'time': '6:5', 'price': 17768.99992609024}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'buy', 'time': '6:5', 'price': 282313.99807333946}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'buy', 'time': '6:5', 'price': 278196.00021362305}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'buy', 'time': '6:15', 'price': 41149.999911129475}]
+
+> TradeSignals5min:
+new signals LINKIRT: [{'type': 'buy', 'time': '6:20', 'price': 274823.99792289734}]
+
+> TradeSignals5min:
+new signals XRPIRT: [{'type': 'sel', 'time': '6:30', 'price': 11630.000006645918}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'sel', 'time': '6:35', 'price': 40913.99991393089}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'sel', 'time': '6:45', 'price': 284000.9987652302}]
+
+> TradeSignals5min:
+new signals DOTIRT: [{'type': 'buy', 'time': '6:55', 'price': 284101.9988954067}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'sel', 'time': '6:55', 'price': 281905.00184828043}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'buy', 'time': '7:0', 'price': 283331.9978851676}]
+
+> TradeSignals5min:
+new signals SANDIRT: [{'type': 'buy', 'time': '7:5', 'price': 41200.00007587671}]
+
+> TradeSignals5min:
+new signals UNIIRT: [{'type': 'sel', 'time': '7:10', 'price': 282299.00141215324}]
